@@ -2,7 +2,7 @@
 
 A completely free, voice-powered budget tracker that logs expenses to Google Sheets using a Siri Shortcut, Google Apps Script, and the Gemini API. Just say **"Hey Siri, log transaction"** and your expense gets categorized and recorded automatically.
 
-📺 **Full tutorial:** [Watch on YouTube](https://youtu.be/BSI5szCUYt0)
+📺 **Full tutorial:** [Watch on YouTube](https://youtu.be/LzV5x9hDbgo)
 
 ---
 
